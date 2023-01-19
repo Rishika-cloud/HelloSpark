@@ -5,6 +5,7 @@ object hello extends Serializable{
     println("hello")
     println("Rishika Rastogi")
     println("hello world")
+    println("abc")
 
   }
 
